@@ -1,0 +1,7 @@
+Executable : /Users/cherie/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/cherie/AndroidStudioProjects/20200714_1 copy/sdk/.cxx/cmake/debug/x86
+opencv_jni_shared
+jvmArgs : 
+

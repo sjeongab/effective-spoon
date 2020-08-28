@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">20200714</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="add_record">새 기록 추가하기</string>
+    <string name="to_health_list">내 기록 확인하기</string>
+
+    <string name="add_record_text">기록 추가하기</string>
+    <string name="choose_photo">추가할 사진을 선택해주세요</string>
+    <string name="camera">직접 촬영</string>
+    <string name="library">사진첩</string>
+
+    <string name="reselect">재선택</string>
+    <string name="confirm">확인</string>
+
+    <string name="recognition_result">인식 결과</string>
+    <string name="ocr_result">결과</string>
+    <string name="retake">재촬영</string>
+    <string name="save">저장</string>
+    <string name="edit">편집</string>
+
+    <string name="ok">완료</string>
+
+    <string name="list">건강 기록</string>
+    <string name="home">홈로</string>
+
+</resources>
